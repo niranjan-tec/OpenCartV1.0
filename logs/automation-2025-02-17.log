@@ -1,0 +1,74 @@
+15:43:21.399 [main] INFO  testCases.TC_002_LoginTest - ** Validate the my account text **
+15:43:21.494 [main] INFO  testCases.TC_002_LoginTest - ** Finished Login Test TC_002 **
+15:46:03.871 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+15:46:09.848 [main] INFO  testCases.TC_002_LoginTest - ** Start Login Test TC_002 **
+15:46:11.460 [main] INFO  testCases.TC_002_LoginTest - ** Enter the login details**
+15:46:13.024 [main] INFO  testCases.TC_002_LoginTest - ** Validate the my account text **
+15:46:13.142 [main] INFO  testCases.TC_002_LoginTest - ** Finished Login Test TC_002 **
+15:48:52.406 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+15:48:57.699 [main] INFO  testCases.TC_002_LoginTest - ** Start Login Test TC_002 **
+15:48:59.377 [main] INFO  testCases.TC_002_LoginTest - ** Enter the login details**
+15:49:01.017 [main] INFO  testCases.TC_002_LoginTest - ** Validate the my account text **
+15:49:01.099 [main] INFO  testCases.TC_002_LoginTest - ** Finished Login Test TC_002 **
+15:51:18.152 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+15:51:23.537 [main] INFO  testCases.TC_002_LoginTest - ** Start Login Test TC_002 **
+15:51:24.515 [main] INFO  testCases.TC_002_LoginTest - ** Enter the login details**
+15:51:26.036 [main] INFO  testCases.TC_002_LoginTest - ** Validate the my account text **
+15:51:26.131 [main] INFO  testCases.TC_002_LoginTest - ** Finished Login Test TC_002 **
+15:52:49.346 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+15:54:22.557 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+15:55:21.258 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+15:55:26.913 [main] INFO  testCases.TC_002_LoginTest - ** Start Login Test TC_002 **
+15:55:28.444 [main] INFO  testCases.TC_002_LoginTest - ** Enter the login details**
+15:55:30.049 [main] INFO  testCases.TC_002_LoginTest - ** Validate the my account text **
+15:55:30.120 [main] INFO  testCases.TC_002_LoginTest - ** Finished Login Test TC_002 **
+16:24:28.254 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+16:24:36.688 [main] INFO  testCases.TC_002_LoginTest - ** Start Login Test TC_002 **
+16:24:38.203 [main] INFO  testCases.TC_002_LoginTest - ** Enter the login details**
+16:24:39.768 [main] INFO  testCases.TC_002_LoginTest - ** Validate the my account text **
+16:24:39.840 [main] INFO  testCases.TC_002_LoginTest - ** Finished Login Test TC_002 **
+16:26:38.964 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+16:26:44.313 [main] INFO  testCases.TC_002_LoginTest - ** Start Login Test TC_002 **
+16:26:45.846 [main] INFO  testCases.TC_002_LoginTest - ** Enter the login details**
+16:26:47.297 [main] INFO  testCases.TC_002_LoginTest - ** Validate the my account text **
+16:32:00.398 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+16:32:05.913 [main] INFO  testCases.TC_002_LoginTest - ** Start Login Test TC_002 **
+16:32:07.432 [main] INFO  testCases.TC_002_LoginTest - ** Enter the login details**
+16:32:08.966 [main] INFO  testCases.TC_002_LoginTest - ** Validate the my account text **
+16:32:09.043 [main] INFO  testCases.TC_002_LoginTest - ** Finished Login Test TC_002 **
+16:34:10.893 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+16:34:16.722 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Starting the test case  **
+16:34:16.779 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Click on my account link  **
+16:34:17.505 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Click on my registration link  **
+16:34:18.546 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Provide all customer details  **
+16:34:21.142 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Validate expected message  **
+16:34:26.017 [main] INFO  testCases.TC_002_LoginTest - ** Start Login Test TC_002 **
+16:34:27.676 [main] INFO  testCases.TC_002_LoginTest - ** Enter the login details**
+16:34:29.202 [main] INFO  testCases.TC_002_LoginTest - ** Validate the my account text **
+16:34:29.277 [main] INFO  testCases.TC_002_LoginTest - ** Finished Login Test TC_002 **
+16:38:27.439 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+16:38:33.462 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Starting the test case  **
+16:38:33.517 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Click on my account link  **
+16:38:34.210 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Click on my registration link  **
