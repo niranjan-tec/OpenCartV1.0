@@ -1,0 +1,74 @@
+13:12:45.413 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:12:45.424 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:12:45.443 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hotelogix\AppData\Local\Temp\testng-eclipse--291982082\testng-customsuite.xml
+
+13:12:45.489 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+13:12:46.115 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@355e34c7: 240 ms
+13:12:46.154 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@29876704: 38 ms
+13:12:46.257 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@388ffbc2: 100 ms
+13:12:46.295 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@56db847e: 36 ms
+13:12:46.315 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7a11c4c7: 18 ms
+13:12:46.316 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4cc547a: 1 ms
+13:13:05.118 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+13:13:11.226 [main] INFO  testCases.TC_004_AddToCartTest - ** Start Login Test TC_002 **
+13:13:12.648 [main] INFO  testCases.TC_004_AddToCartTest - ** Enter the login details**
+13:13:16.366 [main] INFO  testCases.TC_004_AddToCartTest - ** Finished Login Test TC_002 **
+15:59:55.896 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+16:00:46.579 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+16:00:52.648 [main] INFO  testCases.TC_004_AddToCartTest - ** Start Login Test TC_002 **
+16:00:53.864 [main] INFO  testCases.TC_004_AddToCartTest - ** Enter the login details**
+16:20:46.000 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+16:21:03.616 [main] INFO  testCases.TC_004_AddToCartTest - ** Start Login Test TC_002 **
+16:21:04.831 [main] INFO  testCases.TC_004_AddToCartTest - ** Enter the login details**
+16:24:15.675 [main] INFO  testCases.TC_004_AddToCartTest - ** Finished Login Test TC_002 **
+16:39:14.291 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+16:39:21.278 [main] INFO  testCases.TC_004_AddToCartTest - ** Start Login Test TC_002 **
+16:39:22.542 [main] INFO  testCases.TC_004_AddToCartTest - ** Enter the login details**
+16:40:14.883 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+16:40:21.807 [main] INFO  testCases.TC_004_AddToCartTest - ** Start Login Test TC_002 **
+16:40:23.291 [main] INFO  testCases.TC_004_AddToCartTest - ** Enter the login details**
+17:04:22.120 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+17:04:29.868 [main] INFO  testCases.TC_004_AddToCartTest - ** Start Login Test TC_002 **
+17:04:31.150 [main] INFO  testCases.TC_004_AddToCartTest - ** Enter the login details**
+17:07:18.707 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+17:07:25.594 [main] INFO  testCases.TC_004_AddToCartTest - ** Start Login Test TC_002 **
+17:07:26.995 [main] INFO  testCases.TC_004_AddToCartTest - ** Enter the login details**
+17:08:42.792 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+17:08:49.519 [main] INFO  testCases.TC_004_AddToCartTest - ** Start Login Test TC_002 **
+17:08:50.850 [main] INFO  testCases.TC_004_AddToCartTest - ** Enter the login details**
+17:12:52.329 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+17:12:59.458 [main] INFO  testCases.TC_004_AddToCartTest - ** Start Login Test TC_002 **
+17:13:00.938 [main] INFO  testCases.TC_004_AddToCartTest - ** Enter the login details**
+17:26:55.961 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+17:27:03.972 [main] INFO  testCases.TC_004_AddToCartTest - ** Start Login Test TC_002 **
+17:27:05.230 [main] INFO  testCases.TC_004_AddToCartTest - ** Enter the login details**
+17:27:05.795 [main] INFO  testCases.TC_004_AddToCartTest - **Add to cart **
+17:29:12.649 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+17:29:19.546 [main] INFO  testCases.TC_004_AddToCartTest - ** Start Login Test TC_002 **
+17:29:20.885 [main] INFO  testCases.TC_004_AddToCartTest - ** Enter the login details**
+17:29:23.010 [main] INFO  testCases.TC_004_AddToCartTest - **Add to cart **

@@ -1,0 +1,57 @@
+22:24:12.499 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+22:24:23.346 [main] INFO  testCases.TC_002_LoginTest - ** Start Login Test TC_002 **
+22:24:24.554 [main] INFO  testCases.TC_002_LoginTest - ** Enter the login details**
+22:24:26.444 [main] INFO  testCases.TC_002_LoginTest - ** Validate the my account text **
+22:24:26.509 [main] INFO  testCases.TC_002_LoginTest - ** Finished Login Test TC_002 **
+22:25:23.894 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+22:25:30.415 [main] INFO  testCases.TC_002_LoginTest - ** Start Login Test TC_002 **
+22:25:31.926 [main] INFO  testCases.TC_002_LoginTest - ** Enter the login details**
+22:25:33.370 [main] INFO  testCases.TC_002_LoginTest - ** Validate the my account text **
+16:46:07.983 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+16:46:21.084 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ** Starting TC_003_LoginDataDrivenTesting **
+16:46:22.177 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ** Enter the login details**
+16:46:23.758 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ** Validate the my account text **
+16:46:24.804 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ** Finished TC_003_LoginDataDrivenTesting **
+16:46:24.863 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ** Starting TC_003_LoginDataDrivenTesting **
+16:46:25.872 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ** Enter the login details**
+16:46:27.312 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ** Validate the my account text **
+16:46:37.544 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ** Starting TC_003_LoginDataDrivenTesting **
+16:46:38.322 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ** Enter the login details**
+16:46:39.712 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ** Validate the my account text **
+16:46:49.744 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ** Finished TC_003_LoginDataDrivenTesting **
+16:46:49.776 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ** Starting TC_003_LoginDataDrivenTesting **
+16:46:50.501 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ** Enter the login details**
+16:46:51.532 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ** Validate the my account text **
+16:49:55.999 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+16:50:04.543 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ** Starting TC_003_LoginDataDrivenTesting **
+16:50:05.677 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ** Enter the login details**
+16:50:07.066 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ** Validate the my account text **
+16:50:17.135 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ** Finished TC_003_LoginDataDrivenTesting **
+16:50:17.161 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ** Starting TC_003_LoginDataDrivenTesting **
+16:50:17.990 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ** Enter the login details**
+16:50:19.452 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ** Validate the my account text **
+16:50:20.308 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ** Finished TC_003_LoginDataDrivenTesting **
+16:50:20.329 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ** Starting TC_003_LoginDataDrivenTesting **
+16:50:21.179 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ** Enter the login details**
+16:50:22.651 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ** Validate the my account text **
+16:50:23.413 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ** Finished TC_003_LoginDataDrivenTesting **
+16:50:23.431 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ** Starting TC_003_LoginDataDrivenTesting **
+16:50:24.166 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ** Enter the login details**
+16:50:25.426 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ** Validate the my account text **
+16:50:35.603 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ** Starting TC_003_LoginDataDrivenTesting **
+16:50:36.420 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ** Enter the login details**
+16:50:37.807 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ** Validate the my account text **
+16:50:38.595 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ** Finished TC_003_LoginDataDrivenTesting **
+16:50:38.609 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ** Starting TC_003_LoginDataDrivenTesting **
+16:50:39.377 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ** Enter the login details**
+16:50:40.593 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ** Validate the my account text **
+16:50:50.618 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ** Finished TC_003_LoginDataDrivenTesting **
+16:50:50.635 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ** Starting TC_003_LoginDataDrivenTesting **

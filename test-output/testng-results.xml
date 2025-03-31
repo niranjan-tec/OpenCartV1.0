@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-02-21T22:25:23 IST" name="Master Suite" finished-at="2025-02-21T22:25:44 IST" duration-ms="20708">
+  <suite started-at="2025-03-31T16:00:47 IST" name="Master Suite" finished-at="2025-03-31T16:01:02 IST" duration-ms="14732">
     <groups>
     </groups>
-    <test started-at="2025-02-21T22:25:23 IST" name="Test" finished-at="2025-02-21T22:25:44 IST" duration-ms="20708">
-      <class name="testCases.TC_002_LoginTest">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002_LoginTest@37b70343]" started-at="2025-02-21T22:25:24 IST" name="setup" finished-at="2025-02-21T22:25:30 IST" duration-ms="5841" status="PASS">
+    <test started-at="2025-03-31T16:00:47 IST" name="Test" finished-at="2025-03-31T16:01:02 IST" duration-ms="14732">
+      <class name="testCases.TC_004_AddToCartTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_004_AddToCartTest@37b70343]" started-at="2025-03-31T16:00:48 IST" name="setup" finished-at="2025-03-31T16:00:55 IST" duration-ms="7307" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -23,18 +23,16 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verify_login()[pri:0, instance:testCases.TC_002_LoginTest@37b70343]" started-at="2025-02-21T22:25:30 IST" name="verify_login" finished-at="2025-02-21T22:25:43 IST" duration-ms="13014" status="FAIL">
+        <test-method signature="login()[pri:0, instance:testCases.TC_004_AddToCartTest@37b70343]" started-at="2025-03-31T16:00:55 IST" name="login" finished-at="2025-03-31T16:01:01 IST" duration-ms="5590" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
-              <![CDATA[expected [true] but found [false]]]>
+              <![CDATA[null]]>
             </message>
             <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+              <![CDATA[java.lang.AssertionError: null
 at org.testng.Assert.fail(Assert.java:111)
-at org.testng.Assert.failNotEquals(Assert.java:1578)
-at org.testng.Assert.assertTrue(Assert.java:57)
-at org.testng.Assert.assertTrue(Assert.java:67)
-at testCases.TC_002_LoginTest.verify_login(TC_002_LoginTest.java:37)
+at org.testng.Assert.fail(Assert.java:116)
+at testCases.TC_004_AddToCartTest.login(TC_004_AddToCartTest.java:61)
 at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
 at java.base/java.lang.reflect.Method.invoke(Method.java:580)
 at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
@@ -66,12 +64,12 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verify_login -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_002_LoginTest@37b70343]" started-at="2025-02-21T22:25:43 IST" name="tearDown" finished-at="2025-02-21T22:25:44 IST" duration-ms="1078" status="PASS">
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_004_AddToCartTest@37b70343]" started-at="2025-03-31T16:01:01 IST" name="tearDown" finished-at="2025-03-31T16:01:02 IST" duration-ms="1049" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- testCases.TC_002_LoginTest -->
+      </class> <!-- testCases.TC_004_AddToCartTest -->
     </test> <!-- Test -->
   </suite> <!-- Master Suite -->
 </testng-results>
