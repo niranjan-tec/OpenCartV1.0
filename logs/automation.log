@@ -1,19 +1,15 @@
-16:27:07.607 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
-16:27:13.931 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
-16:27:13.949 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
-16:28:03.030 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+17:24:19.223 [main] INFO  testCases.TC_005_RemoveItemsTest - ** Enter the login details **
+17:24:19.851 [main] INFO  testCases.TC_005_RemoveItemsTest - ** Add item into cart and removed it **
+17:25:15.316 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   D:\Selenium_Project\OpenCartV1.0\testng.xml
 
-16:28:09.242 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Starting the test case  **
-16:28:09.276 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Click on my account link  **
-16:28:10.010 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Click on my registration link  **
-16:28:11.021 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Provide all customer details  **
-16:28:13.668 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Validate expected message  **
-16:28:18.120 [main] INFO  testCases.TC_002_LoginTest - ** Start Login Test TC_002 **
-16:28:19.653 [main] INFO  testCases.TC_002_LoginTest - ** Enter the login details**
-16:28:21.186 [main] INFO  testCases.TC_002_LoginTest - ** Validate the my account text **
-16:28:21.243 [main] INFO  testCases.TC_002_LoginTest - ** Finished Login Test TC_002 **
-16:28:25.533 [main] INFO  testCases.TC_004_AddToCartTest - ** Start Login Test TC_002 **
-16:28:27.121 [main] INFO  testCases.TC_004_AddToCartTest - ** Enter the login details**
-16:28:27.713 [main] INFO  testCases.TC_004_AddToCartTest - ** Add to cart **
-16:28:30.216 [main] INFO  testCases.TC_004_AddToCartTest - ** Finished Login Test TC_002 **
+17:25:21.631 [main] INFO  testCases.TC_005_RemoveItemsTest - ** Start Remove Items Test TC_005 **
+17:25:23.264 [main] INFO  testCases.TC_005_RemoveItemsTest - ** Enter the login details **
+17:25:23.849 [main] INFO  testCases.TC_005_RemoveItemsTest - ** Add item into cart and removed it **
+17:26:49.728 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+17:26:56.088 [main] INFO  testCases.TC_005_RemoveItemsTest - ** Start Remove Items Test TC_005 **
+17:26:57.784 [main] INFO  testCases.TC_005_RemoveItemsTest - ** Enter the login details **
+17:26:59.490 [main] INFO  testCases.TC_005_RemoveItemsTest - ** Add item into cart and removed it **
+17:27:07.265 [main] INFO  testCases.TC_005_RemoveItemsTest - ** Finished The Remove Items Test TC_005 **
