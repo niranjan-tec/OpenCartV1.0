@@ -1,9 +1,19 @@
-15:05:48.513 [main] INFO  testCases.TC_004_AddToCartTest - ** Start Login Test TC_002 **
-15:05:49.967 [main] INFO  testCases.TC_004_AddToCartTest - ** Enter the login details**
-15:05:50.591 [main] INFO  testCases.TC_004_AddToCartTest - **Add to cart **
-16:00:47.810 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+16:27:07.607 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+16:27:13.931 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+16:27:13.949 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+16:28:03.030 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   D:\Selenium_Project\OpenCartV1.0\testng.xml
 
-16:00:55.773 [main] INFO  testCases.TC_004_AddToCartTest - ** Start Login Test TC_002 **
-16:00:57.002 [main] INFO  testCases.TC_004_AddToCartTest - ** Enter the login details**
-16:00:59.326 [main] INFO  testCases.TC_004_AddToCartTest - ** Add to cart **
+16:28:09.242 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Starting the test case  **
+16:28:09.276 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Click on my account link  **
+16:28:10.010 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Click on my registration link  **
+16:28:11.021 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Provide all customer details  **
+16:28:13.668 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Validate expected message  **
+16:28:18.120 [main] INFO  testCases.TC_002_LoginTest - ** Start Login Test TC_002 **
+16:28:19.653 [main] INFO  testCases.TC_002_LoginTest - ** Enter the login details**
+16:28:21.186 [main] INFO  testCases.TC_002_LoginTest - ** Validate the my account text **
+16:28:21.243 [main] INFO  testCases.TC_002_LoginTest - ** Finished Login Test TC_002 **
+16:28:25.533 [main] INFO  testCases.TC_004_AddToCartTest - ** Start Login Test TC_002 **
+16:28:27.121 [main] INFO  testCases.TC_004_AddToCartTest - ** Enter the login details**
+16:28:27.713 [main] INFO  testCases.TC_004_AddToCartTest - ** Add to cart **
+16:28:30.216 [main] INFO  testCases.TC_004_AddToCartTest - ** Finished Login Test TC_002 **
