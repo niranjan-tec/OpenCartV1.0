@@ -14,9 +14,9 @@
 		<classes>
 			<!--class name="testCases.TC_001_AccountRegistrationTest" /-->
 			<!-- class name="testCases.TC_002_LoginTest" /-->
-			<!--class name="testCases.TC_003_LoginDataDrivenTest" /-->
+			<class name="testCases.TC_003_LoginDataDrivenTest" />
 			<!-- class name="testCases.TC_004_AddToCartTest" /-->
-			<class name="testCases.TC_005_RemoveItemsTest" />
+			<!-- class name="testCases.TC_005_RemoveItemsTest" /-->
 
 		</classes>
 	</test> <!-- Test -->

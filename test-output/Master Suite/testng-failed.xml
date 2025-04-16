@@ -8,13 +8,13 @@
     <parameter name="os" value="Windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.TC_005_RemoveItemsTest">
+      <class name="testCases.TC_003_LoginDataDrivenTest">
         <methods>
           <include name="tearDown"/>
           <include name="setup"/>
-          <include name="login"/>
+          <include name="verify_loginDDT" invocation-numbers="0"/>
         </methods>
-      </class> <!-- testCases.TC_005_RemoveItemsTest -->
+      </class> <!-- testCases.TC_003_LoginDataDrivenTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Master Suite] -->
