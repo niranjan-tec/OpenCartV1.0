@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testCases.TC_004_AddToCartTest">
+      <class name="testCases.TC_006_verifyAppleCinemaFeatureTest">
         <methods>
+          <include name="getAppleCinemaFeature"/>
           <include name="tearDown"/>
           <include name="setup"/>
-          <include name="login"/>
         </methods>
-      </class> <!-- testCases.TC_004_AddToCartTest -->
+      </class> <!-- testCases.TC_006_verifyAppleCinemaFeatureTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

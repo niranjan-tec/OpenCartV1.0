@@ -32,12 +32,14 @@ public class AddToCart extends BasePage {
 		deskOption.click();
 		selectOptMac.click();
 		btnAddToCart.click();
-		boolean prdMessage = prodAddedConfirmationMess.isDisplayed();
 
-		System.out.println("Confirmation Message : " + prdMessage);
+		System.out.println("Confirmation Message : " + prodAddedConfirmationMess.getText());
 
-		Assert.assertTrue(prdMessage);
+	}
 
+	public boolean isAddToCardConfirmationMessageDisplayed() {
+
+		return prodAddedConfirmationMess.isDisplayed();
 	}
 
 }

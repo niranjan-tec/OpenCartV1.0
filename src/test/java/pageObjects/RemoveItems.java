@@ -5,8 +5,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.testng.Assert;
 
-public class RemoveItems extends BasePage{
-	
+public class RemoveItems extends BasePage {
+
 	public RemoveItems(WebDriver driver) {
 
 		super(driver);
@@ -27,7 +27,7 @@ public class RemoveItems extends BasePage{
 
 	@FindBy(xpath = "//button[@title='Remove']")
 	WebElement remProduct;
-	
+
 	@FindBy(xpath = "//p[text()='Your shopping cart is empty!']")
 	WebElement empText;
 
@@ -41,11 +41,13 @@ public class RemoveItems extends BasePage{
 		remProduct.click();
 		Thread.sleep(2000);
 		btnCartTotal.click();
-		String emptTest=empText.getText();
-		System.out.println(emptTest);
-		Assert.assertEquals(emptTest, "Your shopping cart is empty!");
+		System.out.println("Message of empty cart :" + empText.getText());
 
 	}
 
+	public String verifyCartIsEmpty() {
+
+		return empText.getText();
+	}
 
 }

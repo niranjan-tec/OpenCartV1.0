@@ -31,8 +31,10 @@ public class TC_005_RemoveItemsTest extends BaseClass{
 			
 		
 			RemoveItems remProdut= new RemoveItems(driver);
-			logger.info("** Add item into cart and removed it **");
 			remProdut.VerifyAddAndRemoveProductFuctionality();
+			logger.info("** Add item into cart and removed it **");
+			Assert.assertEquals(remProdut.verifyCartIsEmpty(), "Your shopping cart is empty!");
+
 			
 		} catch (Exception e) {
 			

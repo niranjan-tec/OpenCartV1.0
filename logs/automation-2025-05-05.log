@@ -1,0 +1,68 @@
+12:18:25.628 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+12:18:40.253 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+12:18:40.259 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+12:18:55.633 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+12:23:58.932 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+12:24:08.558 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+12:24:21.594 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+12:24:28.525 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+12:24:28.533 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+12:24:35.221 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+12:24:35.235 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+12:24:49.549 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+12:24:49.560 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+12:24:56.469 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+12:30:38.540 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+12:30:47.628 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+12:31:03.409 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+12:31:03.453 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+12:31:10.364 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+12:31:10.392 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+12:31:17.248 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+12:31:17.265 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+12:31:32.611 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+12:31:32.626 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+12:31:39.960 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+15:15:55.618 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+15:17:28.042 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+15:19:26.061 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+15:22:06.448 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+15:24:35.282 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+15:29:21.744 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+15:30:37.126 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+15:41:25.777 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+15:44:15.434 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+16:29:32.056 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+16:29:32.082 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+16:29:32.087 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:29:32.087 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:29:32.096 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:29:32.097 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:29:32.101 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:29:32.102 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:29:32.131 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 18 ms.
+16:29:32.162 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 29 ms.
+16:29:32.170 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:29:32.173 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.

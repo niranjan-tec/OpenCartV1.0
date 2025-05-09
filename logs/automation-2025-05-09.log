@@ -1,0 +1,57 @@
+13:39:28.332 [main] INFO  testCases.TC_005_RemoveItemsTest - ** Start Remove Items Test TC_005 **
+13:39:30.000 [main] INFO  testCases.TC_005_RemoveItemsTest - ** Enter the login details **
+13:39:39.725 [main] INFO  testCases.TC_005_RemoveItemsTest - ** Add item into cart and removed it **
+13:39:39.787 [main] INFO  testCases.TC_005_RemoveItemsTest - ** Finished The Remove Items Test TC_005 **
+13:40:18.287 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+13:40:25.568 [main] INFO  testCases.TC_005_RemoveItemsTest - ** Start Remove Items Test TC_005 **
+13:40:27.332 [main] INFO  testCases.TC_005_RemoveItemsTest - ** Enter the login details **
+13:40:36.839 [main] INFO  testCases.TC_005_RemoveItemsTest - ** Add item into cart and removed it **
+13:41:25.250 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+13:41:34.038 [main] INFO  testCases.TC_005_RemoveItemsTest - ** Start Remove Items Test TC_005 **
+13:41:35.884 [main] INFO  testCases.TC_005_RemoveItemsTest - ** Enter the login details **
+13:41:46.073 [main] INFO  testCases.TC_005_RemoveItemsTest - ** Add item into cart and removed it **
+13:41:46.161 [main] INFO  testCases.TC_005_RemoveItemsTest - ** Finished The Remove Items Test TC_005 **
+13:44:46.791 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+13:44:53.279 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Starting the test case  **
+13:44:53.373 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Click on my account link  **
+13:44:53.965 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Click on my registration link  **
+13:44:55.299 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Provide all customer details  **
+13:44:58.573 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Validate expected message  **
+13:45:05.099 [main] INFO  testCases.TC_002_LoginTest - ** Start Login Test TC_002 **
+13:45:06.843 [main] INFO  testCases.TC_002_LoginTest - ** Enter the login details**
+13:45:08.782 [main] INFO  testCases.TC_002_LoginTest - ** Validate the my account text **
+13:45:08.900 [main] INFO  testCases.TC_002_LoginTest - ** Finished Login Test TC_002 **
+13:45:16.734 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+13:45:33.269 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+13:45:33.285 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+13:45:39.678 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+13:45:39.695 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+13:45:46.212 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+13:45:46.219 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+13:46:01.875 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+13:46:01.883 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+13:46:08.234 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+13:46:13.249 [main] INFO  testCases.TC_004_AddToCartTest - ** Start Add to Cart Test TC_004 **
+13:46:14.909 [main] INFO  testCases.TC_004_AddToCartTest - ** Enter the login details**
+13:46:15.547 [main] INFO  testCases.TC_004_AddToCartTest - ** Add to cart **
+13:46:18.413 [main] INFO  testCases.TC_004_AddToCartTest - ** Verify if is Add To Card Confirmation Message Displayed or not ? **
+13:46:18.463 [main] INFO  testCases.TC_004_AddToCartTest - ** Finished Add To Cart Test TC_004 **
+13:46:23.022 [main] INFO  testCases.TC_005_RemoveItemsTest - ** Start Remove Items Test TC_005 **
+13:46:24.871 [main] INFO  testCases.TC_005_RemoveItemsTest - ** Enter the login details **
+13:46:35.501 [main] INFO  testCases.TC_005_RemoveItemsTest - ** Add item into cart and removed it **
+13:46:35.547 [main] INFO  testCases.TC_005_RemoveItemsTest - ** Finished The Remove Items Test TC_005 **
+13:46:40.400 [main] INFO  testCases.TC_006_verifyAppleCinemaFeatureTest - Click on the drop down and select the product : 
+13:46:40.406 [main] INFO  testCases.TC_006_verifyAppleCinemaFeatureTest - Click on the Apple Cine Product and Get the featured details : 
+13:46:43.909 [main] INFO  testCases.TC_006_verifyAppleCinemaFeatureTest - Verify the feature is visible or not   : 
+13:51:52.403 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+13:52:02.571 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Starting the test case  **
+13:52:02.624 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Click on my account link  **
+13:52:03.026 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Click on my registration link  **
