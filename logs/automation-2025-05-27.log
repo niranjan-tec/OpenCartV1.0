@@ -1,0 +1,55 @@
+13:52:04.320 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Provide all customer details  **
+13:52:08.005 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Validate expected message  **
+13:52:12.977 [main] INFO  testCases.TC_002_LoginTest - ** Start Login Test TC_002 **
+13:52:14.957 [main] INFO  testCases.TC_002_LoginTest - ** Enter the login details**
+13:52:17.055 [main] INFO  testCases.TC_002_LoginTest - ** Validate the my account text **
+13:52:17.173 [main] INFO  testCases.TC_002_LoginTest - ** Finished Login Test TC_002 **
+13:52:25.303 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+13:52:41.816 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+13:52:41.830 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+13:52:48.673 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+13:52:48.684 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+13:52:55.151 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+13:52:55.159 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+13:53:10.675 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+13:53:10.689 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+13:53:16.935 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+13:53:21.754 [main] INFO  testCases.TC_004_AddToCartTest - ** Start Add to Cart Test TC_004 **
+13:53:23.442 [main] INFO  testCases.TC_004_AddToCartTest - ** Enter the login details**
+13:53:25.225 [main] INFO  testCases.TC_004_AddToCartTest - ** Add to cart **
+13:53:26.872 [main] INFO  testCases.TC_004_AddToCartTest - ** Verify if is Add To Card Confirmation Message Displayed or not ? **
+13:53:26.951 [main] INFO  testCases.TC_004_AddToCartTest - ** Finished Add To Cart Test TC_004 **
+13:53:31.483 [main] INFO  testCases.TC_005_RemoveItemsTest - ** Start Remove Items Test TC_005 **
+13:53:33.624 [main] INFO  testCases.TC_005_RemoveItemsTest - ** Enter the login details **
+13:53:43.552 [main] INFO  testCases.TC_005_RemoveItemsTest - ** Add item into cart and removed it **
+13:53:43.615 [main] INFO  testCases.TC_005_RemoveItemsTest - ** Finished The Remove Items Test TC_005 **
+13:53:48.995 [main] INFO  testCases.TC_006_verifyAppleCinemaFeatureTest - Click on the drop down and select the product : 
+13:53:48.998 [main] INFO  testCases.TC_006_verifyAppleCinemaFeatureTest - Click on the Apple Cine Product and Get the featured details : 
+13:53:53.082 [main] INFO  testCases.TC_006_verifyAppleCinemaFeatureTest - Verify the feature is visible or not   : 
+08:34:49.583 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+19:03:04.488 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\OpenCartV1.0\testng.xml
+
+21:13:50.382 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\Selenium_Project\OpenCartV1.0\testng.xml
+
+21:13:57.993 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Starting the test case  **
+21:13:58.065 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Click on my account link  **
+21:13:58.610 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Click on my registration link  **
+21:14:00.032 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Provide all customer details  **
+21:14:02.710 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Validate expected message  **
+21:14:07.770 [main] INFO  testCases.TC_002_LoginTest - ** Start Login Test TC_002 **
+21:14:10.178 [main] INFO  testCases.TC_002_LoginTest - ** Enter the login details**
+21:14:10.780 [main] INFO  testCases.TC_002_LoginTest - ** Validate the my account text **
+21:14:11.934 [main] INFO  testCases.TC_002_LoginTest - ** Finished Login Test TC_002 **
+21:14:25.137 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+21:14:40.020 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+21:14:40.059 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+21:14:46.939 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+21:14:46.953 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+21:14:53.615 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+21:14:53.635 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+21:15:08.289 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+21:15:08.310 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******

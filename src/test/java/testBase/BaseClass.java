@@ -26,10 +26,10 @@ public class BaseClass {
 	public Logger logger;
 	public Properties p;
 	
-
+	/*
 	@BeforeClass
-	@Parameters({ "os", "browser" })
-	public void setup(String os, String br) throws IOException
+	@Parameters({"browser"})
+	public void setup(String br) throws IOException
 
 	{
 
@@ -62,7 +62,51 @@ public class BaseClass {
 		driver.manage().window().maximize();
 
 	}
+  */
+	
+	
+	@BeforeClass
+	public void setup() throws IOException {
 
+	    // Load config.properties file
+	    FileReader file = new FileReader("./src/test/resources/config.properties");
+	    p = new Properties();
+	    p.load(file);
+
+	    logger = LogManager.getLogger(this.getClass());
+
+	    // Read browser name from properties file
+	    String br = p.getProperty("browser").toLowerCase();
+
+	    switch (br) {
+	        case "chrome":
+	            driver = new ChromeDriver();
+	            break;
+	        case "firefox":
+	            driver = new FirefoxDriver();
+	            break;
+	        case "edge":
+	            driver = new EdgeDriver();
+	            break;
+	        default:
+	            System.out.println("Invalid Browser Name");
+	            return;
+	    }
+
+	    driver.manage().deleteAllCookies();
+	    driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+	    driver.get(p.getProperty("app_url")); // Reading url from properties file
+	    driver.manage().window().maximize();
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	@AfterClass
 	public void tearDown() {
 

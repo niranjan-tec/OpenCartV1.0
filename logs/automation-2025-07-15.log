@@ -1,0 +1,53 @@
+18:12:15.974 [main] INFO  testCases.TC_002_LoginTest - ** Validate the my account text **
+18:12:16.056 [main] INFO  testCases.TC_002_LoginTest - ** Finished Login Test TC_002 **
+18:12:22.395 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+18:12:36.867 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+18:12:36.885 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+18:12:41.928 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+18:12:41.946 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+18:12:46.919 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+18:12:46.938 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+18:13:01.241 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+18:13:01.252 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+18:13:06.506 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+18:13:10.483 [main] INFO  testCases.TC_004_AddToCartTest - ** Start Add to Cart Test TC_004 **
+18:13:11.924 [main] INFO  testCases.TC_004_AddToCartTest - ** Enter the login details**
+18:13:12.388 [main] INFO  testCases.TC_004_AddToCartTest - ** Add to cart **
+18:13:17.082 [main] INFO  testCases.TC_005_RemoveItemsTest - ** Start Remove Items Test TC_005 **
+18:13:18.596 [main] INFO  testCases.TC_005_RemoveItemsTest - ** Enter the login details **
+18:13:23.920 [main] INFO  testCases.TC_006_verifyAppleCinemaFeatureTest - Click on the drop down and select the product : 
+18:13:23.924 [main] INFO  testCases.TC_006_verifyAppleCinemaFeatureTest - Click on the Apple Cine Product and Get the featured details : 
+18:13:25.544 [main] INFO  testCases.TC_006_verifyAppleCinemaFeatureTest - Verify the feature is visible or not   : 
+21:48:08.682 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\Selenium_Project\OpenCartV1.0\testSuites\testng.xml
+
+21:48:20.912 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Starting the test case  **
+21:48:20.951 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Click on my account link  **
+21:48:21.619 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Click on my registration link  **
+21:48:22.549 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Provide all customer details  **
+21:48:24.559 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Validate expected message  **
+21:48:29.340 [main] INFO  testCases.TC_002_LoginTest - ** Start Login Test TC_002 **
+21:48:30.429 [main] INFO  testCases.TC_002_LoginTest - ** Enter the login details**
+21:48:30.876 [main] INFO  testCases.TC_002_LoginTest - ** Validate the my account text **
+21:48:31.841 [main] INFO  testCases.TC_002_LoginTest - ** Finished Login Test TC_002 **
+21:48:39.629 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+21:48:54.744 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+21:48:54.775 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+21:49:00.872 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+21:49:00.892 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+21:49:07.511 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+21:49:07.532 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+21:49:21.566 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+21:49:21.582 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+21:49:27.419 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+21:49:31.689 [main] INFO  testCases.TC_004_AddToCartTest - ** Start Add to Cart Test TC_004 **
+21:49:33.101 [main] INFO  testCases.TC_004_AddToCartTest - ** Enter the login details**
+21:49:33.564 [main] INFO  testCases.TC_004_AddToCartTest - ** Add to cart **
+21:49:39.332 [main] INFO  testCases.TC_005_RemoveItemsTest - ** Start Remove Items Test TC_005 **
+21:49:40.721 [main] INFO  testCases.TC_005_RemoveItemsTest - ** Enter the login details **
+21:49:46.836 [main] INFO  testCases.TC_006_verifyAppleCinemaFeatureTest - Click on the drop down and select the product : 
+21:49:46.844 [main] INFO  testCases.TC_006_verifyAppleCinemaFeatureTest - Click on the Apple Cine Product and Get the featured details : 
+21:49:48.522 [main] INFO  testCases.TC_006_verifyAppleCinemaFeatureTest - Verify the feature is visible or not   : 
+22:03:21.248 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Project\Selenium_Project\OpenCartV1.0\testSuites\testng.xml
+
