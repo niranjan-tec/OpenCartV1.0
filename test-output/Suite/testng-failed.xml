@@ -13,13 +13,6 @@
           <include name="login"/>
         </methods>
       </class> <!-- testCases.TC_005_RemoveItemsTest -->
-      <class name="testCases.TC_004_AddToCartTest">
-        <methods>
-          <include name="tearDown"/>
-          <include name="setup"/>
-          <include name="login"/>
-        </methods>
-      </class> <!-- testCases.TC_004_AddToCartTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

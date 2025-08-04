@@ -10,7 +10,7 @@ import testBase.BaseClass;
 
 public class TC_004_AddToCartTest extends BaseClass {
 
-	@Test(priority = 4)
+	@Test(priority = 4,retryAnalyzer = pageObjects.Retry.class)
 	public void login() {
 
 		logger.info("** Start Add to Cart Test TC_004 **");

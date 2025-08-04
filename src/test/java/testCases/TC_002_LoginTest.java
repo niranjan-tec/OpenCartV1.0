@@ -11,7 +11,7 @@ import testBase.BaseClass;
 public class TC_002_LoginTest extends BaseClass {
 
 	
-	@Test(priority =2 )
+	@Test(priority =2,retryAnalyzer = pageObjects.Retry.class )
 	public void verify_login() {
 
 		logger.info("** Start Login Test TC_002 **");

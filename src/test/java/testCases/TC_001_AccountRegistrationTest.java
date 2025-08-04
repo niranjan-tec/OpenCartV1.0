@@ -2,14 +2,13 @@ package testCases;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
 import pageObjects.AccountRegistrationPage;
 import pageObjects.HomePage;
 import testBase.BaseClass;
 
 public class TC_001_AccountRegistrationTest extends BaseClass {
 
-	@Test(priority =1 )
+	@Test(priority =1,retryAnalyzer = pageObjects.Retry.class )
 	public void verify_account_registration() throws InterruptedException {
 
 		logger.info("** Starting the test case  **");

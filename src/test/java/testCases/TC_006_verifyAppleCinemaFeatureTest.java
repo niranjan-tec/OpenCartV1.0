@@ -8,7 +8,7 @@ import testBase.BaseClass;
 
 public class TC_006_verifyAppleCinemaFeatureTest extends BaseClass {
 
-	@Test(priority = 6)
+	@Test(priority = 6,retryAnalyzer = pageObjects.Retry.class)
 
 	public void getAppleCinemaFeature() {
 

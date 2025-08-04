@@ -25,7 +25,7 @@
       <span class="top-banner-title-font">Test results</span>
       <button id="button" class="button">Switch Retro Theme</button> <!-- button -->
       <br/>
-      <span class="top-banner-font-1">1 suite, 2 failed tests</span>
+      <span class="top-banner-font-1">1 suite, 1 failed test</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -92,7 +92,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">10 methods, 2 failed,   8 passed</span>
+                    <span class="method-stats">11 methods, 1 failed,  1 skipped,  9 passed</span>
                   </li>
                   <li>
                     <span class="method-list-title failed">Failed methods</span>
@@ -106,12 +106,21 @@
                         <a href="#" panel-name="suite-Suite" title="testCases.TC_005_RemoveItemsTest" class="method navigator-link" hash-for-method="login">login</a> <!-- method navigator-link -->
                       </span>
                       <br/>
+                    </div> <!-- method-list-content failed suite-Suite -->
+                  </li>
+                  <li>
+                    <span class="method-list-title skipped">Retried methods</span>
+                    <span class="show-or-hide-methods skipped">
+                      <a href="#" panel-name="suite-Suite" class="hide-methods skipped suite-Suite"> (hide)</a> <!-- hide-methods skipped suite-Suite -->
+                      <a href="#" panel-name="suite-Suite" class="show-methods skipped suite-Suite"> (show)</a> <!-- show-methods skipped suite-Suite -->
+                    </span>
+                    <div class="method-list-content skipped suite-Suite">
                       <span>
-                        <img src="failed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Suite" title="testCases.TC_004_AddToCartTest" class="method navigator-link" hash-for-method="login">login</a> <!-- method navigator-link -->
+                        <img src="skipped.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="testCases.TC_005_RemoveItemsTest" class="method navigator-link" hash-for-method="login">login</a> <!-- method navigator-link -->
                       </span>
                       <br/>
-                    </div> <!-- method-list-content failed suite-Suite -->
+                    </div> <!-- method-list-content skipped suite-Suite -->
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -127,6 +136,11 @@
                       <br/>
                       <span>
                         <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="testCases.TC_004_AddToCartTest" class="method navigator-link" hash-for-method="login">login</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
                         <a href="#" panel-name="suite-Suite" title="testCases.TC_001_AccountRegistrationTest" class="method navigator-link" hash-for-method="verify_account_registration">verify_account_registration</a> <!-- method navigator-link -->
                       </span>
                       <br/>
@@ -137,12 +151,7 @@
                       <br/>
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Suite" title="testCases.TC_003_LoginDataDrivenTest" class="method navigator-link" hash-for-method="verify_loginDDT(laks@yahoo.com, xyz, Invalid)">verify_loginDDT(laks@yahoo.com, xyz, Invalid)</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Suite" title="testCases.TC_003_LoginDataDrivenTest" class="method navigator-link" hash-for-method="verify_loginDDT(abc123@gmail.com, test@123, Valid)">verify_loginDDT(abc123@gmail.com, test@123, Valid)</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-Suite" title="testCases.TC_003_LoginDataDrivenTest" class="method navigator-link" hash-for-method="verify_loginDDT(lakshmi@yahoo.com, Laxmi, Valid)">verify_loginDDT(lakshmi@yahoo.com, Laxmi, Valid)</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
@@ -152,7 +161,12 @@
                       <br/>
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Suite" title="testCases.TC_003_LoginDataDrivenTest" class="method navigator-link" hash-for-method="verify_loginDDT(lakshmi@yahoo.com, Laxmi, Valid)">verify_loginDDT(lakshmi@yahoo.com, Laxmi, Valid)</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-Suite" title="testCases.TC_003_LoginDataDrivenTest" class="method navigator-link" hash-for-method="verify_loginDDT(laks@yahoo.com, xyz, Invalid)">verify_loginDDT(laks@yahoo.com, xyz, Invalid)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="testCases.TC_003_LoginDataDrivenTest" class="method navigator-link" hash-for-method="verify_loginDDT(abc123@gmail.com, test@123, Valid)">verify_loginDDT(abc123@gmail.com, test@123, Valid)</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
@@ -192,10 +206,10 @@
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
           </div> <!-- suite-Suite-class-failed -->
-          <div class="suite-Suite-class-failed">
+          <div class="suite-Suite-class-skipped">
             <div class="main-panel-header rounded-window-top">
-              <img src="failed.png"/>
-              <span class="class-name">testCases.TC_004_AddToCartTest</span>
+              <img src="skipped.png"/>
+              <span class="class-name">testCases.TC_005_RemoveItemsTest</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
@@ -204,14 +218,14 @@
                   </a> <!-- login -->
                   <span class="method-name">login</span>
                   <div class="stack-trace">java.lang.AssertionError: null
-	at testCases.TC_004_AddToCartTest.login(TC_004_AddToCartTest.java:40)
+	at testCases.TC_005_RemoveItemsTest.login(TC_005_RemoveItemsTest.java:41)
 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
 ... Removed 27 stack frames
 </div> <!-- stack-trace -->
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-Suite-class-failed -->
+          </div> <!-- suite-Suite-class-skipped -->
           <div class="suite-Suite-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
@@ -265,6 +279,22 @@
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
+                  <a name="verify_loginDDT(lakshmi@yahoo.com, Laxmi, Valid)">
+                  </a> <!-- verify_loginDDT(lakshmi@yahoo.com, Laxmi, Valid) -->
+                  <span class="method-name">verify_loginDDT</span>
+                  <span class="parameters">(lakshmi@yahoo.com,Laxmi,Valid)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verify_loginDDT(pavanoltraining@gmail.com, test@123, Invalid)">
+                  </a> <!-- verify_loginDDT(pavanoltraining@gmail.com, test@123, Invalid) -->
+                  <span class="method-name">verify_loginDDT</span>
+                  <span class="parameters">(pavanoltraining@gmail.com,test@123,Invalid)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
                   <a name="verify_loginDDT(laks@yahoo.com, xyz, Invalid)">
                   </a> <!-- verify_loginDDT(laks@yahoo.com, xyz, Invalid) -->
                   <span class="method-name">verify_loginDDT</span>
@@ -281,26 +311,25 @@
               </div> <!-- method -->
               <div class="method">
                 <div class="method-content">
-                  <a name="verify_loginDDT(pavanoltraining@gmail.com, test@123, Invalid)">
-                  </a> <!-- verify_loginDDT(pavanoltraining@gmail.com, test@123, Invalid) -->
-                  <span class="method-name">verify_loginDDT</span>
-                  <span class="parameters">(pavanoltraining@gmail.com,test@123,Invalid)</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="verify_loginDDT(lakshmi@yahoo.com, Laxmi, Valid)">
-                  </a> <!-- verify_loginDDT(lakshmi@yahoo.com, Laxmi, Valid) -->
-                  <span class="method-name">verify_loginDDT</span>
-                  <span class="parameters">(lakshmi@yahoo.com,Laxmi,Valid)</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
                   <a name="verify_loginDDT(laksh@yahoo.com, Lakshmi, Valid)">
                   </a> <!-- verify_loginDDT(laksh@yahoo.com, Lakshmi, Valid) -->
                   <span class="method-name">verify_loginDDT</span>
                   <span class="parameters">(laksh@yahoo.com,Lakshmi,Valid)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-passed -->
+          <div class="suite-Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">testCases.TC_004_AddToCartTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="login">
+                  </a> <!-- login -->
+                  <span class="method-name">login</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -373,47 +402,51 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(10);
+data.addRows(11);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'verify_loginDDT')
 data.setCell(0, 2, 'testCases.TC_003_LoginDataDrivenTest')
-data.setCell(0, 3, 14794);
+data.setCell(0, 3, 14429);
 data.setCell(1, 0, 1)
 data.setCell(1, 1, 'verify_loginDDT')
 data.setCell(1, 2, 'testCases.TC_003_LoginDataDrivenTest')
-data.setCell(1, 3, 14394);
+data.setCell(1, 3, 14362);
 data.setCell(2, 0, 2)
-data.setCell(2, 1, 'verify_loginDDT')
-data.setCell(2, 2, 'testCases.TC_003_LoginDataDrivenTest')
-data.setCell(2, 3, 8814);
+data.setCell(2, 1, 'login')
+data.setCell(2, 2, 'testCases.TC_005_RemoveItemsTest')
+data.setCell(2, 3, 10174);
 data.setCell(3, 0, 3)
-data.setCell(3, 1, 'verify_loginDDT')
-data.setCell(3, 2, 'testCases.TC_003_LoginDataDrivenTest')
-data.setCell(3, 3, 5141);
+data.setCell(3, 1, 'verify_login')
+data.setCell(3, 2, 'testCases.TC_002_LoginTest')
+data.setCell(3, 3, 7372);
 data.setCell(4, 0, 4)
 data.setCell(4, 1, 'verify_loginDDT')
 data.setCell(4, 2, 'testCases.TC_003_LoginDataDrivenTest')
-data.setCell(4, 3, 5010);
+data.setCell(4, 3, 5924);
 data.setCell(5, 0, 5)
-data.setCell(5, 1, 'verify_account_registration')
-data.setCell(5, 2, 'testCases.TC_001_AccountRegistrationTest')
-data.setCell(5, 3, 3544);
+data.setCell(5, 1, 'verify_loginDDT')
+data.setCell(5, 2, 'testCases.TC_003_LoginDataDrivenTest')
+data.setCell(5, 3, 5639);
 data.setCell(6, 0, 6)
-data.setCell(6, 1, 'login')
-data.setCell(6, 2, 'testCases.TC_004_AddToCartTest')
-data.setCell(6, 3, 2918);
+data.setCell(6, 1, 'verify_loginDDT')
+data.setCell(6, 2, 'testCases.TC_003_LoginDataDrivenTest')
+data.setCell(6, 3, 5547);
 data.setCell(7, 0, 7)
-data.setCell(7, 1, 'login')
-data.setCell(7, 2, 'testCases.TC_005_RemoveItemsTest')
-data.setCell(7, 3, 2903);
+data.setCell(7, 1, 'verify_account_registration')
+data.setCell(7, 2, 'testCases.TC_001_AccountRegistrationTest')
+data.setCell(7, 3, 4650);
 data.setCell(8, 0, 8)
-data.setCell(8, 1, 'verify_login')
-data.setCell(8, 2, 'testCases.TC_002_LoginTest')
-data.setCell(8, 3, 2826);
+data.setCell(8, 1, 'login')
+data.setCell(8, 2, 'testCases.TC_005_RemoveItemsTest')
+data.setCell(8, 3, 4080);
 data.setCell(9, 0, 9)
-data.setCell(9, 1, 'getAppleCinemaFeature')
-data.setCell(9, 2, 'testCases.TC_006_verifyAppleCinemaFeatureTest')
-data.setCell(9, 3, 1886);
+data.setCell(9, 1, 'login')
+data.setCell(9, 2, 'testCases.TC_004_AddToCartTest')
+data.setCell(9, 3, 3900);
+data.setCell(10, 0, 10)
+data.setCell(10, 1, 'getAppleCinemaFeature')
+data.setCell(10, 2, 'testCases.TC_006_verifyAppleCinemaFeatureTest')
+data.setCell(10, 3, 2308);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
@@ -451,106 +484,108 @@ return data;
               </div> <!-- configuration-class before -->
               <div class="test-method">
                 <span class="method-name">verify_login</span>
-                <span class="method-start">4497 ms</span>
+                <span class="method-start">9169 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">7352 ms</span>
+                <span class="method-start">16570 ms</span>
               </div> <!-- configuration-class after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">testCases.TC_005_RemoveItemsTest</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
                 <span class="method-name">setup</span>
-                <span class="method-start">8086 ms</span>
+                <span class="method-start">18249 ms</span>
               </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">login</span>
+                <span class="method-start">22469 ms</span>
+              </div> <!-- test-method -->
               <div class="test-method">
                 <img src="failed.png">
                 </img>
                 <span class="method-name">login</span>
-                <span class="method-start">11925 ms</span>
+                <span class="method-start">26564 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">15023 ms</span>
+                <span class="method-start">36946 ms</span>
               </div> <!-- configuration-class after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">testCases.TC_006_verifyAppleCinemaFeatureTest</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
                 <span class="method-name">setup</span>
-                <span class="method-start">15734 ms</span>
+                <span class="method-start">39597 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
                 <span class="method-name">getAppleCinemaFeature</span>
-                <span class="method-start">19575 ms</span>
+                <span class="method-start">44775 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">21473 ms</span>
+                <span class="method-start">47085 ms</span>
               </div> <!-- configuration-class after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">testCases.TC_001_AccountRegistrationTest</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
                 <span class="method-name">setup</span>
-                <span class="method-start">22186 ms</span>
+                <span class="method-start">49709 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
                 <span class="method-name">verify_account_registration</span>
-                <span class="method-start">25950 ms</span>
+                <span class="method-start">53929 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">29497 ms</span>
+                <span class="method-start">58581 ms</span>
               </div> <!-- configuration-class after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">testCases.TC_004_AddToCartTest</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
                 <span class="method-name">setup</span>
-                <span class="method-start">30153 ms</span>
+                <span class="method-start">60236 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
-                <img src="failed.png">
-                </img>
                 <span class="method-name">login</span>
-                <span class="method-start">33750 ms</span>
+                <span class="method-start">66476 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">36810 ms</span>
+                <span class="method-start">70382 ms</span>
               </div> <!-- configuration-class after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">testCases.TC_003_LoginDataDrivenTest</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
                 <span class="method-name">setup</span>
-                <span class="method-start">37454 ms</span>
+                <span class="method-start">71593 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
                 <span class="method-name">verify_loginDDT(pavanoltraining@gmail.com, test@123, Invalid)</span>
-                <span class="method-start">44064 ms</span>
+                <span class="method-start">79211 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">verify_loginDDT(lakshmi@yahoo.com, Laxmi, Valid)</span>
-                <span class="method-start">58865 ms</span>
+                <span class="method-start">93588 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">verify_loginDDT(laksh@yahoo.com, Lakshmi, Valid)</span>
-                <span class="method-start">63906 ms</span>
+                <span class="method-start">99519 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">verify_loginDDT(laks@yahoo.com, xyz, Invalid)</span>
-                <span class="method-start">72724 ms</span>
+                <span class="method-start">105164 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">verify_loginDDT(abc123@gmail.com, test@123, Valid)</span>
-                <span class="method-start">87124 ms</span>
+                <span class="method-start">119598 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">92277 ms</span>
+                <span class="method-start">125153 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

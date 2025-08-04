@@ -20,7 +20,7 @@ Data is invalid - login success - test fail  - logout
 
 public class TC_003_LoginDataDrivenTest extends BaseClass {
 
-	@Test(priority = 3,dataProvider="LoginData", dataProviderClass=DataProviders.class,groups="Datadriven")// getting data provider from different class
+	@Test(priority = 3,dataProvider="LoginData", dataProviderClass=DataProviders.class,groups="Datadriven",retryAnalyzer = pageObjects.Retry.class)// getting data provider from different class
 	public void verify_loginDDT(String email, String pwd, String exp) throws InterruptedException
 	{
 		logger.info("***** stating TC_003_LoginDDT ******");
@@ -31,7 +31,7 @@ public class TC_003_LoginDataDrivenTest extends BaseClass {
 		HomePage hp=new HomePage(driver);
 		hp.clickMyAccount();
 		hp.clickLogin();
-		
+
 		//Login
 		LoginPage lp=new LoginPage(driver);
 		lp.setEmail(email);

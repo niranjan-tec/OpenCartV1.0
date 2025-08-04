@@ -10,7 +10,7 @@ import testBase.BaseClass;
 
 public class TC_005_RemoveItemsTest extends BaseClass{
 
-	@Test(priority =5 )
+	@Test(priority =5,retryAnalyzer = pageObjects.Retry.class )
 	public void login() {
 
 		logger.info("** Start Remove Items Test TC_005 **");
