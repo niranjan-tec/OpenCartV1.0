@@ -1,24 +1,22 @@
-16:50:32.452 [main] INFO  testCases.TC_005_RemoveItemsTest - ** Finished The Remove Items Test TC_005 **
-16:50:37.244 [main] INFO  testCases.TC_006_verifyAppleCinemaFeatureTest - Click on the drop down and select the product : 
-16:50:37.261 [main] INFO  testCases.TC_006_verifyAppleCinemaFeatureTest - Click on the Apple Cine Product and Get the featured details : 
-16:50:39.157 [main] INFO  testCases.TC_006_verifyAppleCinemaFeatureTest - Verify the feature is visible or not   : 
-16:50:43.866 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Starting the test case  **
-16:50:43.867 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Click on my account link  **
-16:50:44.983 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Click on my registration link  **
-16:50:45.575 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Provide all customer details  **
-16:50:47.816 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Validate expected message  **
-16:50:52.777 [main] INFO  testCases.TC_004_AddToCartTest - ** Start Add to Cart Test TC_004 **
-16:50:53.347 [main] INFO  testCases.TC_004_AddToCartTest - ** Enter the login details**
-16:50:54.717 [main] INFO  testCases.TC_004_AddToCartTest - ** Add to cart **
-16:50:55.766 [main] INFO  testCases.TC_004_AddToCartTest - ** Verify if is Add To Card Confirmation Message Displayed or not ? **
-16:50:55.814 [main] INFO  testCases.TC_004_AddToCartTest - ** Finished Add To Cart Test TC_004 **
-16:51:03.791 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
-16:51:18.511 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
-16:51:18.536 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
-16:51:23.933 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
-16:51:23.947 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
-16:51:29.317 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
-16:51:29.330 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
-16:51:43.725 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
-16:51:43.750 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
-16:51:58.159 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+16:46:17.474 [main] INFO  testCases.TC_002_LoginTest - ** Finished Login Test TC_002 **
+16:46:22.223 [main] INFO  testCases.TC_005_RemoveItemsTest - ** Start Remove Items Test TC_005 **
+16:46:23.709 [main] INFO  testCases.TC_005_RemoveItemsTest - ** Enter the login details **
+16:46:24.996 [main] INFO  testCases.TC_005_RemoveItemsTest - ** Start Remove Items Test TC_005 **
+16:46:41.413 [main] INFO  testCases.TC_006_verifyAppleCinemaFeatureTest - Click on the drop down and select the product : 
+16:46:41.419 [main] INFO  testCases.TC_006_verifyAppleCinemaFeatureTest - Click on the Apple Cine Product and Get the featured details : 
+16:46:43.156 [main] INFO  testCases.TC_006_verifyAppleCinemaFeatureTest - Verify the feature is visible or not   : 
+16:46:49.402 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Starting the test case  **
+16:46:49.403 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Click on my account link  **
+16:46:49.612 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Click on my registration link  **
+16:46:50.437 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Provide all customer details  **
+16:46:52.438 [main] INFO  testCases.TC_001_AccountRegistrationTest - ** Validate expected message  **
+16:46:56.847 [main] INFO  testCases.TC_004_AddToCartTest - ** Start Add to Cart Test TC_004 **
+16:46:58.290 [main] INFO  testCases.TC_004_AddToCartTest - ** Enter the login details**
+16:46:58.777 [main] INFO  testCases.TC_004_AddToCartTest - ** Add to cart **
+16:46:59.581 [main] INFO  testCases.TC_004_AddToCartTest - ** Start Add to Cart Test TC_004 **
+16:47:17.062 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+16:47:32.268 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+16:47:32.289 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+16:47:37.738 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
+16:47:37.745 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** stating TC_003_LoginDDT ******
+16:47:43.230 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***** Finished TC_003_LoginDDT ******
